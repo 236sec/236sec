@@ -14,7 +14,7 @@ src="https://img.shields.io/github/followers/236sec?logo=github&style=for-the-ba
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,html,css,js,tailwind,mysql,py,figma,vscode" />
+    <img src="https://skillicons.dev/icons?i=git,html,css,js,tailwind,mysql,py,figma,vscode" />
   </a>
 </p>
 
