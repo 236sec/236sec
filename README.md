@@ -29,6 +29,10 @@ src="https://img.shields.io/github/followers/236sec?logo=github&style=for-the-ba
 
 ![Sompon's GitHub stats](https://github-readme-stats.vercel.app/api?username=236sec&show_icons=true&theme=algolia)
 
-<a href="http://www.github.com/236sec"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=236sec&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+[![236sec's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=236sec&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=236sec&langs_count=8&layout=pie&bg_color=1c1917&text_color=ffffff)](https://github.com/236sec)
+
+### My Recommend Project
+- [DataBase Project](https://github.com/236sec/Database_Project)
+- [NoFlix](https://github.com/236sec/noflix)
