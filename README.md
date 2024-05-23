@@ -6,6 +6,7 @@ Second-Year Student at Kasetsart University
 
 * 🌍  I'm based in Bangkok, Thailand
 * ✉️  You can contact me at [popole159za@gmail.com](mailto:popole159za@gmail.com)
+* Write Blog at [Medium](https://medium.com/@236sec)
 
 <a href="https://www.github.com/236sec" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/236sec?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
