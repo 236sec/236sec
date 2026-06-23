@@ -1,8 +1,11 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Sompon Onlam
 =====================================================================================================================================
 
-Fourth-Year Student at Kasetsart University
+New Grads from Kasetsart University
 ------------------------------------------
+
+### About me
+Aspiring Full Stack Web Developer with a fresh Bachelor's degree. Leverages AI as a powerful pair-programming tool to accelerate development while safeguarding logic and reliability through TDD and rigorous code reviews. Thrives on exploring new technologies and building end-to-end web applications efficiently.
 
 * 🌍  I'm based in Bangkok, Thailand
 * ✉️  You can contact me at [popole159za@gmail.com](mailto:popole159za@gmail.com) or [sompon.onlam159@gmail.com](mailto:sompon.onlam159@gmail.com)
